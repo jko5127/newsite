@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-<?
-Hello world!
-?>
-=======
-?>
-Hello world!
-<?
->>>>>>> d362060a66ac9f691d3fbe7f54916e94b45b6072
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello World in PHP</title>
+</head>
+<body>
+    <?php echo "Hello, World!"; ?>
+</body>
+</html>
